@@ -5,7 +5,7 @@ import sys
 
 def check_reboot():
     '''Returns True if the computer has a pending reboot.'''
-    return os.path.exist("/run/reboot-required")
+    return os.path.exists("/run/reboot-required")
 
 def main():
     if check_reboot():
@@ -14,4 +14,5 @@ def main():
     print("Everything ok.")
     sys.exit(0)
 
-main()
+if __name__ == "__main__":
+    main()
