@@ -1,5 +1,6 @@
 import sys
 
-for i in sys.argv[1:]:
-    print(i.upper())
+print(sys.argv)
 
+for i in sys.argv:
+    print(i.upper())
