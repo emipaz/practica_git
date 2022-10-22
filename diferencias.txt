@@ -1,0 +1,5 @@
+--- archivo1.txt	2022-10-15 09:25:06.045293012 -0300
++++ archivo2.txt	2022-10-15 09:25:35.496958613 -0300
+@@ -1,2 +1 @@
+ sabado 15 de octubre de 2022
+-Vamos a practicar con diff y git

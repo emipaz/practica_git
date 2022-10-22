@@ -1,0 +1,11 @@
+sabado 15 de octubre de 2022
+Vamos a practicar con diff y git
+
+
+def Hola(hola):
+ if hola == "hola":
+  print("jgsk")
+
+cfasdfasdf
+
+

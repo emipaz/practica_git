@@ -1,0 +1,13 @@
+--- archivo1.txt	2022-10-15 09:53:12.678063326 -0300
++++ archivo2.txt	2022-10-15 09:36:20.761554194 -0300
+@@ -1,10 +1,2 @@
+ sabado 15 de octubre de 2022
+ Vamos a practicar con diff y git
+-
+-
+-def Hola(hola):
+- if hola == "hola":
+-  print("jgsk")
+-
+-
+-
